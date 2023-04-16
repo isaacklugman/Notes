@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f813cf2464aa111",
+            "id": "d0f36b3571e552ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md"
+                "file": "_index.md"
               }
             }
           }
@@ -147,9 +147,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f813cf2464aa111",
+  "active": "d0f36b3571e552ac",
   "lastOpenFiles": [
+    "notes/Smash Ultimate/Smash.md",
     "_index.md",
+    "notes/Smash Ultimate",
+    "notes",
     "notes/Principles of Cyber Security/Principles of Cyber Security.md",
     "notes/Engineering Management and Law/Engineering Management and Law.md",
     "notes/Programming 3/Programming 3.md",
@@ -177,7 +180,6 @@
     "notes/Intelligent Agents/Week 10/Cooperative Games.md",
     "notes/Intelligent Agents/Week 9/Voting.md",
     "notes/Intelligent Agents/Week 8/Notes/Formulae.md",
-    "notes/Intelligent Agents/Week 7/Preference Elicitation.md",
     "notes/Foundations of Comp Sci",
     "notes/Software Security/Week 6/fix_images.py",
     "notes/Software Security/fix_images.py",
@@ -192,8 +194,6 @@
     "notes/Software Security/Images/Pasted image 20230413004653.png",
     "notes/Software Security/Images/Pasted image 20230413004147.png",
     "notes/Software Security/Images/Pasted image 20230413003509.png",
-    "notes/Software Security/Week 6",
-    "notes/Software Security/Week 5",
-    "notes/Comp Systems 1/PDFs/Notes.pdf"
+    "notes/Software Security/Week 6"
   ]
 }
