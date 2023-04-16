@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "250abe9bdf3723b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca1fce8bcfb81e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f813cf2464aa111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efd21e7764aae4f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e9fcf909d2c498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dafa61b7300bd1a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42e5bddbe17a3309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f34de80756a82dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d21bf70942b91c8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d8138bf4a6f11cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ce5799eaaa4b587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8482e006d8d4c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ddba2776358a5bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "febae273b2b01404",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Principles of Cyber Security/Principles of Cyber Security.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2f813cf2464aa111",
+  "lastOpenFiles": [
+    "_index.md",
+    "notes/Principles of Cyber Security/Principles of Cyber Security.md",
+    "notes/Engineering Management and Law/Engineering Management and Law.md",
+    "notes/Programming 3/Programming 3.md",
+    "notes/Principles of Cyber Security",
+    "notes/Web and Cloud Based Security/Web and Cloud Based Security.md",
+    "notes/Programming 3",
+    "notes/Advanced Databases/Week 4.md",
+    "notes/Advanced Databases/Week 9.md",
+    "notes/Advanced Databases/Week 8.md",
+    "notes/Advanced Databases/Week 7.md",
+    "notes/Advanced Databases/Week 6.md",
+    "notes/Advanced Databases/Week 5.md",
+    "notes/Advanced Databases/Week 3.md",
+    "notes/Advanced Databases/Week 2.md",
+    "notes/Advanced Databases/Week 1.md",
+    "notes/Foundations of Comp Sci/Foundations of Comp Sci.md",
+    "notes/Theory of Computing/Theory of Computing.md",
+    "notes/Theory of Computing",
+    "notes/Advanced Computer Networks/Week 9/Network Security.md",
+    "notes/Advanced Computer Networks/Week 9/Network Monitoring.md",
+    "notes/Advanced Computer Networks/Week 9/Bluetooth.md",
+    "notes/Advanced Computer Networks/Week 6/IEEE 802.11_ Wi-Fi.md",
+    "notes/Advanced Computer Networks/Week 4/Wireless Sensor Networks.md",
+    "notes/Intelligent Agents/Week 8/Auctions.md",
+    "notes/Intelligent Agents/Week 10/Cooperative Games.md",
+    "notes/Intelligent Agents/Week 9/Voting.md",
+    "notes/Intelligent Agents/Week 8/Notes/Formulae.md",
+    "notes/Intelligent Agents/Week 7/Preference Elicitation.md",
+    "notes/Foundations of Comp Sci",
+    "notes/Software Security/Week 6/fix_images.py",
+    "notes/Software Security/fix_images.py",
+    "notes/Software Security/Week 5/fix_images.py",
+    "notes/Software Security/Images/Pasted image 20230413011753.png",
+    "notes/Software Security/Images/Pasted image 20230413012204.png",
+    "notes/Software Security/Images/Pasted image 20230412220117.png",
+    "notes/Software Security/Images/Pasted image 20230413010813.png",
+    "notes/Software Security/Images/Pasted image 20230413010337.png",
+    "notes/Software Security/Images/Pasted image 20230413010242.png",
+    "notes/Software Security/Images/Pasted image 20230413004805.png",
+    "notes/Software Security/Images/Pasted image 20230413004653.png",
+    "notes/Software Security/Images/Pasted image 20230413004147.png",
+    "notes/Software Security/Images/Pasted image 20230413003509.png",
+    "notes/Software Security/Week 6",
+    "notes/Software Security/Week 5",
+    "notes/Comp Systems 1/PDFs/Notes.pdf"
+  ]
+}
