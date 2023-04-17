@@ -1,9 +1,9 @@
 services:
   quartz-hugo:
     image: ghcr.io/jackyzha0/quartz:hugo
-    container_name: quartz-hugo
+    container_name: quartz-hugo-personal-notes
     volumes:
-      - D:\isaac\Files\repos\UoS-Notes:/quartz
+      - D:\isaac\Files\repos\Notes:/quartz
     ports:
       - 1313:1313
 
