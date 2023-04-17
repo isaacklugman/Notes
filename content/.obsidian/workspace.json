@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "notes/Smash Ultimate/Smash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "notes/Smash Ultimate/Smash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/Smash Ultimate/Smash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/Smash Ultimate/Smash.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "d0f36b3571e552ac",
   "lastOpenFiles": [
-    "notes/Smash Ultimate/Smash.md",
     "_index.md",
+    "notes/Smash Ultimate/Smash.md",
+    "notes/Smash Ultimate/Pages/Attacks.md",
+    "notes/Smash Ultimate/Pages/Shielding.md",
+    "notes/Smash Ultimate/Pages/Movement.md",
     "notes/Smash Ultimate/Pages/Zair.md",
     "notes/Smash Ultimate/Pages/Tilt.md",
     "notes/Smash Ultimate/Pages/Spotdodge.md",
@@ -178,9 +181,6 @@
     "notes/Programming 3",
     "notes/Advanced Databases/Week 4.md",
     "notes/Advanced Databases/Week 9.md",
-    "notes/Advanced Databases/Week 8.md",
-    "notes/Advanced Databases/Week 7.md",
-    "notes/Advanced Databases/Week 6.md",
     "notes/Theory of Computing",
     "notes/Foundations of Comp Sci",
     "notes/Software Security/Week 6/fix_images.py",
