@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Server/Server Set Up.md",
+                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Server/Server Set Up.md",
+                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Server/Server Set Up.md",
+                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Server/Server Set Up.md"
+                "file": "notes/Smash Ultimate/Pages/Dash Attack.md"
               }
             }
           }
@@ -155,18 +155,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0f36b3571e552ac",
+  "active": "dafa61b7300bd1a4",
   "lastOpenFiles": [
-    "notes/Server/Images/6.5.png",
-    "_index.md",
     "notes/Server/Server Set Up.md",
     "notes/Smash Ultimate/Smash.md",
-    "notes/Smash Ultimate/Pages/Attacks.md",
-    "notes/Smash Ultimate/Pages/Shielding.md",
     "notes/Smash Ultimate/Pages/Movement.md",
     "notes/Smash Ultimate/Pages/Zair.md",
-    "notes/Smash Ultimate/Pages/Tilt.md",
     "notes/Smash Ultimate/Pages/Spotdodge.md",
+    "notes/Smash Ultimate/Pages/Shielding.md",
+    "notes/Smash Ultimate/Pages/(Stage Get-up) Attack.md",
+    "notes/Server/Images/6.5.png",
+    "_index.md",
+    "notes/Smash Ultimate/Pages/Attacks.md",
+    "notes/Smash Ultimate/Pages/Tilt.md",
     "notes/Smash Ultimate/Pages/Smash Attack.md",
     "notes/Smash Ultimate/Pages/Regular get-up.md",
     "notes/Smash Ultimate/Pages/Neutral Air - Nair.md",
@@ -174,7 +175,6 @@
     "notes/Smash Ultimate/Pages/Dash Attack.md",
     "notes/Smash Ultimate/Pages/(Stage Get-up) Roll.md",
     "notes/Smash Ultimate/Pages/(Stage Get-up) Jump.md",
-    "notes/Smash Ultimate/Pages/(Stage Get-up) Attack.md",
     "templates/post.md",
     "templates",
     "notes/Smash Ultimate/Smash 1.md",
@@ -201,7 +201,6 @@
     "notes/Software Security/Images/Pasted image 20230413010242.png",
     "notes/Software Security/Images/Pasted image 20230413004805.png",
     "notes/Software Security/Images/Pasted image 20230413004653.png",
-    "notes/Software Security/Images/Pasted image 20230413004147.png",
-    "notes/Software Security/Images/Pasted image 20230413003509.png"
+    "notes/Software Security/Images/Pasted image 20230413004147.png"
   ]
 }
