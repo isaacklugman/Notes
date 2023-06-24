@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Smash Ultimate/Smash.md",
+                "file": "notes/Server/Server Set Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f2f67c8f73774977",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Smash Ultimate/Smash.md",
+                "file": "notes/Server/Server Set Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Smash Ultimate/Smash.md",
+                "file": "notes/Server/Server Set Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Smash Ultimate/Smash.md"
+                "file": "notes/Server/Server Set Up.md"
               }
             }
           }
@@ -149,7 +157,9 @@
   },
   "active": "d0f36b3571e552ac",
   "lastOpenFiles": [
+    "notes/Server/Images/6.5.png",
     "_index.md",
+    "notes/Server/Server Set Up.md",
     "notes/Smash Ultimate/Smash.md",
     "notes/Smash Ultimate/Pages/Attacks.md",
     "notes/Smash Ultimate/Pages/Shielding.md",
@@ -179,8 +189,6 @@
     "notes/Principles of Cyber Security",
     "notes/Web and Cloud Based Security/Web and Cloud Based Security.md",
     "notes/Programming 3",
-    "notes/Advanced Databases/Week 4.md",
-    "notes/Advanced Databases/Week 9.md",
     "notes/Theory of Computing",
     "notes/Foundations of Comp Sci",
     "notes/Software Security/Week 6/fix_images.py",
