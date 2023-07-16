@@ -1,0 +1,1 @@
+A handful of dried fruits such as **apricots**, **dates**, or **figs**. These are nutrient-dense and high in calories, making them good for weight gain

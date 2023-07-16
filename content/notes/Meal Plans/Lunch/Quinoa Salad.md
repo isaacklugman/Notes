@@ -1,0 +1,1 @@
+**Quinoa** salad with roasted vegetables (like **bell peppers**, **zucchini**, and **eggplant**) and **chickpeas**. Dress it with **olive oil** and **lemon juice** for some healthy fats and flavour. Quinoa is an excellent source of protein, and the vegetables and chickpeas add fibre

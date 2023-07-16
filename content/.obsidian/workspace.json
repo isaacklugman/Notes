@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0f36b3571e552ac",
+            "id": "bf94b1e89fb99b8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
+                "file": "notes/Meal Plans/Evening Snack/Homemade Popcorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
+                "file": "notes/Meal Plans/Evening Snack/Homemade Popcorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Smash Ultimate/Pages/Dash Attack.md",
+                "file": "notes/Meal Plans/Evening Snack/Homemade Popcorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Smash Ultimate/Pages/Dash Attack.md"
+                "file": "notes/Meal Plans/Evening Snack/Homemade Popcorn.md"
               }
             }
           }
@@ -155,8 +155,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dafa61b7300bd1a4",
+  "active": "bf94b1e89fb99b8f",
   "lastOpenFiles": [
+    "notes/Meal Plans/Dinner/Roasted Eggplant Lasagna.md",
+    "notes/Meal Plans/Evening Snack/Homemade Popcorn.md",
+    "notes/Meal Plans/Afternoon Snack/Banana Smoothie.md",
+    "notes/Meal Plans/Mid-morning Snack/Yoghurt and Chia Seeds.md",
+    "notes/Meal Plans/Mid-morning Snack/Banana Smoothie.md",
+    "notes/Meal Plans/Lunch/Vegetable and Brown Rice Risotto.md",
+    "notes/Meal Plans/Breakfast/Scrambled Tofu.md",
+    "notes/Meal Plans/Evening Snack/Rice Cakes with Almond Butter.md",
+    "notes/Meal Plans/Dinner/Baked Sweet Potato topped with Black Beans.md",
+    "notes/Meal Plans/Afternoon Snack/Dried Fruits.md",
+    "notes/Meal Plans/Lunch/Lentil Soup.md",
+    "notes/Meal Plans/Mid-morning Snack/Mango Smoothie.md",
+    "notes/Meal Plans/Breakfast/Buckwheat Porridge.md",
+    "notes/Meal Plans/Evening Snack/Avocado on Toast.md",
+    "notes/Meal Plans/Dinner/Tofu Stir Fry.md",
+    "notes/Meal Plans/Evening Snack",
+    "notes/Meal Plans/Afternoon Snack/Mixed Nuts and Seeds.md",
+    "notes/Meal Plans/Dinner",
+    "notes/Meal Plans/Lunch/Quinoa Salad.md",
+    "notes/Meal Plans/Afternoon Snack",
+    "notes/Meal Plans/Lunch",
+    "notes/Meal Plans/Breakfast/Porridge.md",
+    "notes/Meal Plans/Mid-morning Snack",
+    "notes/Smash Ultimate/Pages/Dash Attack.md",
+    "notes/Meal Plans/Breakfast",
+    "notes/Meal Plans",
     "notes/Server/Server Set Up.md",
     "notes/Smash Ultimate/Smash.md",
     "notes/Smash Ultimate/Pages/Movement.md",
@@ -165,34 +191,9 @@
     "notes/Smash Ultimate/Pages/Shielding.md",
     "notes/Smash Ultimate/Pages/(Stage Get-up) Attack.md",
     "notes/Server/Images/6.5.png",
-    "_index.md",
-    "notes/Smash Ultimate/Pages/Attacks.md",
-    "notes/Smash Ultimate/Pages/Tilt.md",
-    "notes/Smash Ultimate/Pages/Smash Attack.md",
-    "notes/Smash Ultimate/Pages/Regular get-up.md",
-    "notes/Smash Ultimate/Pages/Neutral Air - Nair.md",
-    "notes/Smash Ultimate/Pages/Jab.md",
-    "notes/Smash Ultimate/Pages/Dash Attack.md",
-    "notes/Smash Ultimate/Pages/(Stage Get-up) Roll.md",
-    "notes/Smash Ultimate/Pages/(Stage Get-up) Jump.md",
-    "templates/post.md",
     "templates",
-    "notes/Smash Ultimate/Smash 1.md",
-    "notes/Smash Ultimate.md",
-    "notes/SmashUltimate.md",
     "notes/Smash Ultimate/Pages",
     "notes/Smash Ultimate",
-    "notes",
-    "notes/Principles of Cyber Security/Principles of Cyber Security.md",
-    "notes/Engineering Management and Law/Engineering Management and Law.md",
-    "notes/Programming 3/Programming 3.md",
-    "notes/Principles of Cyber Security",
-    "notes/Web and Cloud Based Security/Web and Cloud Based Security.md",
-    "notes/Programming 3",
-    "notes/Theory of Computing",
-    "notes/Foundations of Comp Sci",
-    "notes/Software Security/Week 6/fix_images.py",
-    "notes/Software Security/fix_images.py",
     "notes/Software Security/Images/Pasted image 20230413011753.png",
     "notes/Software Security/Images/Pasted image 20230413012204.png",
     "notes/Software Security/Images/Pasted image 20230412220117.png",

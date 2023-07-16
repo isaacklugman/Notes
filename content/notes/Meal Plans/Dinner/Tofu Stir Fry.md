@@ -1,0 +1,1 @@
+**Tofu** stir-fry with a variety of vegetables like **broccoli**, **carrots** and **baby corn**. Use **coconut oil** or **olive oil** for cooking and serve it over brown rice. Tofu is a good source of protein, and the brown rice adds some extra calories and fibre

@@ -1,0 +1,1 @@
+A glass of homemade smoothie made with ripe **mango**, **non-dairy yogurt**, a spoonful of **ground flaxseeds**, and a dash of honey. Mango is easy to digest, while flaxseeds provide healthy fats

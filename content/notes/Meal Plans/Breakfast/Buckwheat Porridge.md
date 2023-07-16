@@ -1,0 +1,1 @@
+A bowl of buckwheat porridge with non-dairy milk (like **soy** or **oat**), topped with a drizzle of **honey** or **maple syrup** for added calories and a side of fruit such as a sliced **banana**

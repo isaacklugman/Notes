@@ -1,0 +1,1 @@
+A serving of **lentil soup** with **carrots**, **celery**, **onions**, and **spinach**. Pair it with a slice of **gluten-free bread**. Lentils are high in protein and fiber, and the vegetables add an extra nutrient boost

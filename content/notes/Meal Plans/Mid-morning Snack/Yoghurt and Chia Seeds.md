@@ -1,0 +1,1 @@
+A bowl of **non-dairy yogurt** (such as almond or coconut-based) with a drizzle of **honey** or **maple syrup** and a sprinkling of **chia seeds**. This provides a mix of protein, healthy fats, and calories

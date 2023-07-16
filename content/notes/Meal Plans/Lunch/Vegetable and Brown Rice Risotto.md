@@ -1,0 +1,1 @@
+A serving of **vegetable** and **brown rice** risotto. Brown rice is a good source of complex carbohydrates and the vegetables add additional nutrients

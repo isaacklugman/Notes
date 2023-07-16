@@ -1,0 +1,1 @@
+A smoothie made with **banana**, **non-dairy milk**, a scoop of **plant-based protein powder**, and a handful of **spinach** or **kale**. The banana and protein powder will help increase your calorie intake, and the greens provide some extra nutrients without being too harsh on your digestive system

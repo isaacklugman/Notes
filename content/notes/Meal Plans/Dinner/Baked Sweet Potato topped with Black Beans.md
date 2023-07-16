@@ -1,0 +1,1 @@
+Baked **sweet potato** topped with **black beans**, **diced avocado**, and a dollop of **non-dairy yogurt**. This is a balanced meal with a good mix of complex carbohydrates, protein, and healthy fats

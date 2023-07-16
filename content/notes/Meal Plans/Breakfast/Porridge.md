@@ -1,0 +1,1 @@
+Oatmeal made with **almond milk** or other non-dairy milk, topped with fruits such as **berries** and a spoonful of **almond** or **peanut butter**. This provides a good balance of complex carbohydrates and proteins

@@ -1,0 +1,1 @@
+A **banana** and **almond butter** smoothie. Both bananas and almond butter are high in calories and nutrients, which can help with weight gain
